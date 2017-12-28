@@ -6,13 +6,16 @@
 [![Code Climate](https://codeclimate.com/github/rubyclerks/office_clerk/badges/gpa.svg)](https://codeclimate.com/github/rubyclerks/office_clerk)
 [![Test Coverage](https://codeclimate.com/github/rubyclerks/office_clerk/badges/coverage.svg) 300+](https://codeclimate.com/github/rubyclerks/office_clerk)
 
-Office Clerk is the back office helper, your accountant, storage manager, secretary and more. It is the heart of the [RubyClerks team](http://rubyclerks.org) , the manager as it were.
+Office Clerk is the back office helper, your accountant, storage manager, secretary and more. It is the heart of the [RubyClerks team](http://rubyclerks.github.io) , the manager as it were.
 
 ####  Status
 
-Version 1.0.0 (beginning 2016) In production for 2 years on sites with less than 10000 orders a year.
+Version 1.1 (beginning 2017) In production for more than 3 years on sites with less than 10000 orders a year.
 
-It works with ruby 2.0 or higher and rails 4.2
+It works with ruby 2.4 or higher and rails 5.0
+
+** Due to lack of interest this repository/organisation is abandoned**
+I have since started to add a lot of JS and forked into my own account.
 
 ### Other clerks
 
@@ -52,8 +55,8 @@ The longer route, adding to existing project
 
 ### Further
 
-Check the [User Guide](http://rubyclerks.org/user_guide/01_index.html),
-then the [Developer Guide](http://rubyclerks.org/developer_guide/01_index.html).
+Check the [User Guide](http://rubyclerks.github.io/user_guide/01_index.html),
+then the [Developer Guide](http://rubyclerks.github.io/developer_guide/01_index.html).
 
 If you got this far and still have question , mail me, or mail the [list](https://groups.google.com/forum/#!forum/rubyclerks)
 
